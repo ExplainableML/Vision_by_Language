@@ -119,7 +119,7 @@ After downloading the dataset, ensure that the folder structure matches the foll
 
 
 #### GeneCIS
-
+Setup the GeneCIS benchmark following the instructions in the [**official repository**](https://github.com/facebookresearch/genecis). You would need to download images from the MS-COCO 2017 validation set and from the VisualGenome1.2 dataset. 
 
 
 
@@ -152,13 +152,12 @@ This call to `src/main.py` includes the majority of relevant handles:
 ## Citation
 
 ```bibtex
-@misc{karthik2023visionbylanguage,
-      title={Vision-by-Language for Training-Free Compositional Image Retrieval}, 
-      author={Shyamgopal Karthik and Karsten Roth and Massimiliano Mancini and Zeynep Akata},
-      year={2023},
-      eprint={2310.09291},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{karthik2024visionbylanguage,
+  title={Vision-by-Language for Training-Free Compositional Image Retrieval},
+  author={Shyamgopal Karthik and Karsten Roth and Massimiliano Mancini and Zeynep Akata},
+  journal={International Conference on Learning Representations (ICLR)},
+  year={2024}
 }
+
 ```
 

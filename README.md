@@ -7,7 +7,7 @@ __Authors__: Shyamgopal Karthik*, Karsten Roth*, Massimilano Mancini, Zeynep Aka
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2310.09291)  	
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vision-by-language-for-training-free/zero-shot-composed-image-retrieval-zs-cir-on)](https://paperswithcode.com/sota/zero-shot-composed-image-retrieval-zs-cir-on?p=vision-by-language-for-training-free)   
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vision-by-language-for-training-free/zero-shot-composed-image-retrieval-zs-cir-on-1)](https://paperswithcode.com/sota/zero-shot-composed-image-retrieval-zs-cir-on-1?p=vision-by-language-for-training-free)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vision-by-language-for-training-free/zero-shot-composed-image-retrieval-zs-cir-on-1)](https://paperswithcode.com/sota/zero-shot-composed-image-retrieval-zs-cir-on-1?p=vision-by-language-for-training-free)   
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vision-by-language-for-training-free/zero-shot-composed-image-retrieval-zs-cir-on-2)](https://paperswithcode.com/sota/zero-shot-composed-image-retrieval-zs-cir-on-1?p=vision-by-language-for-training-free)
 
 This repo extends the great code repository of [SEARLE](https://arxiv.org/abs/2303.15247), link [here](https://github.com/miccunifi/SEARLE).
